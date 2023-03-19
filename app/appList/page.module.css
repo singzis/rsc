@@ -1,0 +1,23 @@
+.main {
+  width: 1200px;
+  padding-top: 50px;
+  margin: auto;
+}
+
+.app {
+  border: 3px red dashed;
+  margin: 1em;
+  padding: 1em;
+}
+
+.counter {
+  border: 3px blue dashed;
+  margin: 1em;
+  padding: 1em;
+}
+
+.list {
+  border: 3px green dashed;
+  margin: 1em;
+  padding: 1em;
+}

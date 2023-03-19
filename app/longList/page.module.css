@@ -1,0 +1,14 @@
+.long_list {
+  display: flex;
+}
+.long_list > div {
+  flex: 1;
+}
+.wrapper {
+  border: 1px dashed #eee;
+  margin-right: 20px;
+}
+.wrapper_content {
+    height: 700px;
+    overflow: auto;
+}
